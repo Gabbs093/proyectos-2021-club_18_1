@@ -8,13 +8,20 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 
 ### Introducción
 
+Problema: Agua congelada en el hemisferio sur de la luna.  
 
-Describe de qué trata tu proyecto:
-* ¿qué problema vas a abordar?
-* ¿porqué es importante?
-* ¿cómo se relaciona con la **ODS** asignada a tu club? 
-* ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
+Importancia:
 
+Después de que la NASA confirmará la existencia de agua en uno de los cráteres visibles más grandes del satélite natural “Clavius” que se encuentra a temperaturas extremadamente frías de hasta 163° bajo cero, se explicó que podría ser clave para futuras misiones tripuladas. Pero, ¿para qué servirá el agua?
+Con la misión Artemisa se planea la instalación de una base permanente en la luna, la cual servirá para el apoyo de futuras misiones tripuladas que se tienen previstas para viajar a Marte en el año 2030. La cual incluirá un laboratorio científico que servirá para estudiar distintos sucesos que vayan ocurriendo durante la misión. Por tal motivo, se puede tener una reserva de agua donde puede ser estudiada para determinar si es agua potable o no, si es salada o dulce, para poder determinar qué tan funcional es y así utilizar esos recursos sin necesidad de tener que llevar grandes cantidades desde la tierra, siendo así una subestación de agua “intermedia” entre la tierra, la luna y marte. 
+
+_Objetivos de desarrollo sostenible (ODS). 
+
+El Objetivo de desarrollo sostenible 17, se trata de llevar a cabo alianzas con distintas organizaciones, ya sea del sector privado, sociedad civil e incluso el gobierno, donde las alianzas deben de construirse por los mismos principios y valores y a su vez tener objetivos comunes, por lo que cada parte debe aportar su experiencia y conocimiento, mediante el intercambio de conocimientos, capacidades técnicas, tecnológicas y recursos, los cuales contribuyen a la resolución del problema. Por lo que, nuestra misión tendrá una alianza con la misión “ARTEMISA” que ya tiene tiempo planificándose la cual se llevará a cabo aproximadamente para el año 2024.
+
+Relación con el club.
+
+Nuestro proyecto se relaciona con el estudio de las misiones espaciales y detectores que se nos explicaron en las distintas sesiones del club, las cuales fueron de inspiración para poder realizar nuestra misión llamada “¿La luna es de queso o de agua?”
 ### Métodología
 La misión que se realizará será una misión a otros cuerpos celestes, en particular será una misión a la Luna. 
 
