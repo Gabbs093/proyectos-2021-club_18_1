@@ -8,6 +8,7 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 
 ### Introducción
 
+
 Describe de qué trata tu proyecto:
 * ¿qué problema vas a abordar?
 * ¿porqué es importante?
@@ -15,8 +16,17 @@ Describe de qué trata tu proyecto:
 * ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
 
 ### Métodología
+La misión que se realizará será una misión a otros cuerpos celestes, en particular será una misión a la Luna. 
 
+Para realizar la misión se tiene contemplado el cohete SLS (Space Launch System en ingles), un cohete pensado para las misiones de Artemisa, dicho cohete tiene una configuración de cuatro motores RS25 que tendrá un empuje de lanzamiento en su etapa central de cerca de 2 millones de libras de fuerza  y podrá alcanzar hasta 8.8 millones de libras de empuje máximo, también tiene integrados dos propulsores de apoyo que darán un empuje adicional, teniendo 15 por ciento mas empuje que el  cohete Saturno V (National Aeronautics and Space Administration, n.d.).
+En la etapa superior se usarán propulsores RL10 para llegar hasta Gateway y poder llevar nuestra carga útil. (National Aeronautics and Space Administration, n.d.)
+
+En la misión tras superar los limites de las señales otorgadas por el GPS y TDRS, la comunicación continuara a través de la Red del Espacio Profundo (DSN en inglés) por la cual se mantendrá comunicación con Orión.  (National Aeronautics and Space Administration, 2020)
 Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
+
+En la misión tras superar los limites de las señales otorgadas por el GPS y TDRS, la comunicación continuara a través de la Red del Espacio Profundo (DSN en inglés) por la cual se mantendrá comunicación con Orión.  (National Aeronautics and Space Administration, 2020)
+
+Entre 2 semanas y 1 mes, es lo necesario para desplegar el equipo correspondiente para realizar la misión. (esto basado en la duración de Artemis 1 que desplegara CubeSats) 
 
 ### Resultados
 
